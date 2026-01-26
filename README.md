@@ -42,7 +42,7 @@ I specialize in:
 
 ---
 
-# 🧠 Tech Stack (Animated)
+# 🧠 Tech Stack 
 
 <div align="center">
 
