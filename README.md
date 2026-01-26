@@ -63,7 +63,7 @@ I specialize in:
 
 | Tool | Description | Live Demo |
 |------|-------------|-----------|
-| 🎙 HiveX Radius Studio | Border-Reduced Creator | [Live Demo](https://hivex-radius-studio.netlify.app/) |
+| 🎙 HiveX Radius Studio | Border-Radius Creator | [Live Demo](https://hivex-radius-studio.netlify.app/) |
 | 🎙 HiveX Recorder | Browser Screen Recorder | [Live Demo](https://hivex-recorder.netlify.app/) |
 | 🎬 HiveX Video Editor | Online Video Editor | [Live Demo](https://hivex-video-editor.netlify.app/) |
 
