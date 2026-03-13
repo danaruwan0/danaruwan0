@@ -57,6 +57,52 @@ I specialize in:
 <em>💫 Animated tech stack powered by DevIcons / Shields.dev style</em>
 </p>
 
+# 🧬 Programming Language I Created
+
+<div align="center">
+
+<img height="80" src="https://github.com/danaruwan0/LIMA-Programing-Language/blob/main/logo/Lima%20logo.png" />
+
+</div>
+
+## 🚀 LIMA – Logical Intelligent Modular Algorithmic
+
+**LIMA** is a modern experimental programming language designed to **simplify complex software development** by combining logic, modularity, and algorithms.
+
+### 🌟 Core Features
+
+- Logical Programming Structure  
+- Modular Code Design  
+- Intelligent Algorithm Patterns  
+- Clean, Developer-Friendly Syntax  
+
+### 🔬 Purpose
+
+LIMA aims to **streamline software development** by offering:
+
+✔ Efficient logical reasoning for developers  
+✔ Reusable and modular components  
+✔ Scalable systems for web, mobile, and desktop  
+✔ Algorithmic patterns built into the language  
+
+### ⚙️ Current Status
+
+🛠 **Under active development** by Dananjaya Sandaruwan Kumara
+
+**Completed / Implemented:**
+
+- Core syntax design  
+- Modular programming structure  
+- Algorithm pattern prototypes  
+
+**Next Steps / Roadmap:**
+
+- [ ] Build a **Compiler / Interpreter**  
+- [ ] Create **Official Developer Documentation**  
+- [ ] Launch **Open-Source Ecosystem**  
+- [ ] Develop **SDK & Developer Tools**  
+- [ ] Community & GitHub contributions  
+
 ---
 
 # 🚀 Professional Tools I Built
