@@ -40,7 +40,7 @@ Hi, I'm **Dananjaya Sandaruwan Kumara**, a software developer passionate about b
 
 **Institution:** ACPT (Advanced College of Technology)
 
-Studied full-stack application development, with a focus on building modern web applications and understanding frontend and backend technologies.
+Studied full-stack application development, with a focus on frontend and backend technologies.
 
 <a href="https://acpt.lk/courses.html#">
   <img src="https://img.shields.io/badge/ACPT-View_Course-243B55?style=flat-square&logo=googlechrome&logoColor=white" alt="View ACPT Course" />
@@ -52,25 +52,25 @@ Studied full-stack application development, with a focus on building modern web 
 
 **Frontend Development**
 
-<div>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=dark" alt="Frontend Technologies" />
 </div>
 
 **Backend Development**
 
-<div>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,dotnet&theme=dark" alt="Backend Technologies" />
 </div>
 
 **Databases**
 
-<div>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark" alt="Database Technologies" />
 </div>
 
 **Development Tools**
 
-<div>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman&theme=dark" alt="Development Tools" />
 </div>
 
@@ -78,18 +78,35 @@ Studied full-stack application development, with a focus on building modern web 
 
 ## <img src="https://img.shields.io/badge/Featured_Projects-243B55?style=flat-square" alt="Featured Projects" />
 
-### 01. King Restaurant
+### 01. CampusConnect — Full-Stack Social Networking Application
 
-A restaurant website focused on responsive design, menu presentation, and reservation functionality.
+CampusConnect is a full-stack web application designed to connect university students through social networking and communication features. The project brings together a React frontend, a Spring Boot backend, and a MySQL database.
 
-**Technologies:** HTML, CSS, JavaScript
+**Key Features**
 
-<a href="https://github.com/danaruwan0/king-resturant">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+- User authentication and profile management
+- Posts and social interactions
+- Follow system
+- Real-time messaging using WebSockets
+- Message seen status and conversation management
+- Notifications and additional student-focused features
+
+**Technologies Used**
+
+<div>
+<img src="https://skillicons.dev/icons?i=react,spring,java,mysql,js,css&theme=dark" alt="CampusConnect Technologies" />
+</div>
+
+**Project Repositories**
+
+<a href="https://github.com/danaruwan0/Campusconnect_Backend_Application">
+  <img src="https://img.shields.io/badge/Backend_Repository-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="CampusConnect Backend" />
 </a>
-<a href="https://dananjayasandaruwan.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://github.com/danaruwan0/CampusConnect_frontEnd">
+  <img src="https://img.shields.io/badge/Frontend_Repository-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="CampusConnect Frontend" />
 </a>
+
+---
 
 ### 02. Workwise — Job Finding Platform
 
@@ -104,6 +121,8 @@ A job-finding platform designed to help users explore employment opportunities.
   <img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
+---
+
 ### 03. Facebook Clone App
 
 A mobile application inspired by social networking platforms.
@@ -117,6 +136,8 @@ A mobile application inspired by social networking platforms.
   <img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
+---
+
 ### 04. TastyTap — Food Ordering App
 
 A mobile application concept focused on food ordering and delivery-related functionality.
@@ -129,6 +150,8 @@ A mobile application concept focused on food ordering and delivery-related funct
 <a href="https://dananjayasandaruwan.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+
+---
 
 ### 05. Library Management System
 
