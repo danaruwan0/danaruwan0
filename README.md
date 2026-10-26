@@ -1,194 +1,121 @@
-<!-- ===================== HEADER ===================== -->
+# Dananjaya Sandaruwan Kumara
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:141E30,50:243B55,100:0F2027&text=Dananjaya%20Sandaruwan%20Kumara&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+<img src="https://github.com/danaruwan0/dananjaya_portfolio/blob/main/asets/2%20p.png" width="100%" />
 
-# 🚀 Full-Stack Developer | Mobile App Developer | CEO @ HiveXStack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;CEO+of+HiveXStack+Technologies;HDIT+Undergraduate+@+ICST;Building+Scalable+Digital+Solutions" />
+### Full-Stack Developer | Web & Mobile Application Developer
+
+Building responsive applications and practical software solutions.
+
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+[<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/danaruwan0)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dananjaya-sandaruwan-0bb919310)
 
 </div>
 
 ---
 
-# 👋 About Me
+## <img src="https://img.shields.io/badge/About_Me-243B55?style=flat-square" />
+
+Hi, I'm **Dananjaya Sandaruwan Kumara**, a software developer passionate about building modern, scalable, and user-friendly applications.
+
+- <img src="https://img.shields.io/badge/Education-0A66C2?style=flat-square&logo=googlescholar&logoColor=white" /> Higher Diploma in Information Technology (HDIT) undergraduate at ICST University.
+- <img src="https://img.shields.io/badge/Development-239120?style=flat-square&logo=codefactor&logoColor=white" /> Interested in full-stack web development, mobile applications, and desktop software.
+- <img src="https://img.shields.io/badge/Projects-6C3483?style=flat-square&logo=github&logoColor=white" /> Experienced in developing practical software projects.
+- <img src="https://img.shields.io/badge/Learning-F39C12?style=flat-square&logo=bookstack&logoColor=white" /> Continuously improving software engineering and backend development skills.
+
+## <img src="https://img.shields.io/badge/Technical_Skills-243B55?style=flat-square" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=dark" />
+
+**Backend Development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,dotnet&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark" />
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman&theme=dark" />
+
+## <img src="https://img.shields.io/badge/Featured_Projects-243B55?style=flat-square" />
+
+### 01. King Restaurant
+
+A restaurant website focused on responsive design, menu presentation, and reservation functionality.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/danaruwan0/king-resturant)
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+
+### 02. Workwise — Job Finding Platform
+
+A job-finding platform designed to help users explore employment opportunities.
+
+**Technologies:** React, Node.js, MongoDB
+
+[<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/danaruwan0/job_finde_react_app)
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+
+### 03. Facebook Clone App
+
+A mobile application inspired by social networking platforms.
+
+**Technologies:** React Native, Firebase, Redux
+
+[<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/danaruwan0/fb-app)
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+
+### 04. TastyTap — Food Ordering App
+
+A mobile application concept for food ordering and delivery-related features.
+
+**Technologies:** React Native, Node.js
+
+[<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/danaruwan0/tastyTapMobileApp)
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+
+### 05. Library Management System
+
+A desktop application for managing library resources and operations.
+
+**Technologies:** Java, JavaFX
+
+[<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/danaruwan0/javafxLibraryManagementSystem-)
+[<img src="https://img.shields.io/badge/Portfolio-Visit-243B55?style=flat-square&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
+
+## <img src="https://img.shields.io/badge/GitHub_Statistics-243B55?style=flat-square" />
 
 <div align="center">
 
-<img width="200" style="border-radius:50%" src="https://github.com/danaruwan0/dananjaya_portfolio/blob/main/assets/dananjaya%20sandaruwan.jpg?raw=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=danaruwan0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danaruwan0&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danaruwan0&theme=tokyo-night&hide_border=true" width="96%" />
 
 </div>
 
-Hi, I'm **DANANJAYA SANDARUWAN KUMARA**  
-
-🎓 Higher Diploma in Information Technology (HDIT) Undergraduate – **ICST University**  
-🏢 Founder & CEO – **HiveXStack Technologies**  
-💼 Freelance Developer with **1+ year experience**  
-🚀 Passionate about building **modern, scalable, and user-friendly applications**
-
-I specialize in:
-
-✔ Mobile App Development  
-✔ Web Development  
-✔ Full-Stack Systems  
-✔ Startup & Product Building  
-
----
-
-# 🌐 My Websites
-
-🌍 Company Website → [HiveXStack](https://hivexstack.netlify.app/)  
-💼 Portfolio → [dananjayasandaruwan.netlify.app](https://dananjayasandaruwan.netlify.app/)  
-
----
-
-# 🧠 Tech Stack 
+## <img src="https://img.shields.io/badge/Contact-243B55?style=flat-square" />
 
 <div align="center">
 
-<img height="50" src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,css,tailwind,bootstrap,mui,figma&theme=dark" />
-<img height="50" src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,java,python,flask&theme=dark" />
-<img height="50" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-<img height="50" src="https://skillicons.dev/icons?i=vscode,postman,idea,git,github&theme=dark" />
+[<img src="https://img.shields.io/badge/Portfolio-Visit_Website-243B55?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://dananjayasandaruwan.netlify.app/)
 
-</div>
+[<img src="https://img.shields.io/badge/GitHub-danaruwan0-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/danaruwan0)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dananjaya-sandaruwan-0bb919310)
+[<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dananjayaruwan0@gmail.com)
 
-<p align="center">
-<em>💫 Animated tech stack powered by DevIcons / Shields.dev style</em>
-</p>
+**Email:** dananjayaruwan0@gmail.com
 
-# 🧬 Programming Language I Created
-
-<div align="center">
-
-<img height="80" src="https://github.com/danaruwan0/LIMA-Programing-Language/blob/main/logo/Lima%20logo.png" />
-
-</div>
-
-## 🚀 LIMA – Logical Intelligent Modular Algorithmic
-
-**LIMA** is a modern experimental programming language designed to **simplify complex software development** by combining logic, modularity, and algorithms.
-
-### 🌟 Core Features
-
-- Logical Programming Structure  
-- Modular Code Design  
-- Intelligent Algorithm Patterns  
-- Clean, Developer-Friendly Syntax  
-
-### 🔬 Purpose
-
-LIMA aims to **streamline software development** by offering:
-
-✔ Efficient logical reasoning for developers  
-✔ Reusable and modular components  
-✔ Scalable systems for web, mobile, and desktop  
-✔ Algorithmic patterns built into the language  
-
-### ⚙️ Current Status
-
-🛠 **Under active development** by Dananjaya Sandaruwan Kumara
-
-**Completed / Implemented:**
-
-- Core syntax design  
-- Modular programming structure  
-- Algorithm pattern prototypes  
-
-**Next Steps / Roadmap:**
-
-- [ ] Build a **Compiler / Interpreter**  
-- [ ] Create **Official Developer Documentation**  
-- [ ] Launch **Open-Source Ecosystem**  
-- [ ] Develop **SDK & Developer Tools**  
-- [ ] Community & GitHub contributions  
-
----
-
-# 🚀 Professional Tools I Built
-
-| Tool | Description | Live Demo |
-|------|-------------|-----------|
-| 🎙 HiveX Radius Studio | Border-Radius Creator | [Live Demo](https://hivex-radius-studio.netlify.app/) |
-| 🎙 HiveX Recorder | Browser Screen Recorder | [Live Demo](https://hivex-recorder.netlify.app/) |
-| 🎬 HiveX Video Editor | Online Video Editor | [Live Demo](https://hivex-video-editor.netlify.app/) |
-
----
-
-# 🌟 Hosted Web Projects
-
-| Project | Description | Link |
-|-----------|----------------------|-----------|
-| WorkWiz Job Finder | Job search platform | [Visit](https://workwiz.netlify.app/home) |
-| Seetha Hotel | Hotel booking system | [Visit](https://seetha-hotell.netlify.app/) |
-| TravelWorld | Travel agency website | [Visit](https://travelworldsample.netlify.app/) |
-
----
-
-# 📱 Mobile Apps (GitHub)
-
-| App | Repository |
-|-----------|------------------------------|
-| TastyTap Mobile App | [GitHub Repo](https://github.com/danaruwan0/tastyTapMobileApp) |
-| Facebook Clone App | [GitHub Repo](https://github.com/danaruwan0/fb-app) |
-
----
-
-# 💻 Desktop Applications
-
-| Project | Repository |
-|------------|-------------------------------|
-| C# Desktop App | [GitHub Repo](https://github.com/danaruwan0/destop_app) |
-| JavaFX Library System | [GitHub Repo](https://github.com/danaruwan0/javafxLibraryManagementSystem-) |
-
----
-
-# 🐍 Flask Projects
-
-🔗 [Flask Website](https://github.com/danaruwan0/Flask-website)
-
----
-
-# 📊 GitHub Stats & Contributions
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=danaruwan0&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danaruwan0&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<!-- Contribution Graph Table -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danaruwan0&theme=tokyo-night&hide_border=true&area=true" />
-
-<br/>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-✅ CEO & Founder – HiveXStack Technologies  
-✅ 15+ Production Applications  
-✅ Professional Developer Tools  
-✅ Freelance Clients & Real-World Projects  
-✅ Full-Stack Expertise (Web + Mobile + Desktop)
-
----
-
-# 📞 Contact Me
-
-<div align="center">
-
-📧 Email: [dananjayaruwan0@gmail.com](mailto:dananjayaruwan0@gmail.com)  
-📱 Phone: 0770280529  
-🔗 LinkedIn: [Dananjaya Sandaruwan](https://www.linkedin.com/in/dananjaya-sandaruwan-0bb919310)  
-💻 GitHub: [danaruwan0](https://github.com/danaruwan0)  
+**Phone:** +94 77 028 0529
 
 </div>
 
@@ -196,8 +123,8 @@ LIMA aims to **streamline software development** by offering:
 
 <div align="center">
 
-### 💡 "Code • Build • Innovate • Scale"
+*Building solutions through code, creativity, and continuous learning.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:141E30,50:243B55,100:0F2027&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:141E30,100:243B55&section=footer" width="100%" />
 
 </div>
